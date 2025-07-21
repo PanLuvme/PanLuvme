@@ -1,13 +1,19 @@
 <div align="right">
+  
   ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=PanLuvme.visitor-badge)
+  
 </div>
 
 <div align="center">
+  
   <img src="hello-animated.gif">
+  
 </div>
 
 <div align="center">
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alejandro+Avina+Fernandez)](https://git.io/typing-svg)
+  
 </div>
 
 <div align="center">
