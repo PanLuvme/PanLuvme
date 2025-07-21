@@ -11,12 +11,6 @@
 </div>
 
 <div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alejandro+Avina+Fernandez)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
   
   🔭 I’m currently working on **A Research Project**
 
