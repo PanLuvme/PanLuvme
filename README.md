@@ -1,20 +1,16 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=PanLuvme.visitor-badge)
-## Hi there 👋
 
-<!--
-**PanLuvme/PanLuvme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ 
+ 🔭 I’m currently working on **A Research Projec**
+ 
+ 🌱 I’m currently learning **Rust, JavaScript, AWS**
 
-Here are some ideas to get you started:
+💬 Ask me about **C++, Python, Firebase... or anything [here](https://github.com/PanLuvme/PanLuvme/issues)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact about me **I have an obsession of self-hosting everything**
+
+ </div>
  
 <div align="center"> 
   <a href="mailto:alex.avina1212@gmail.com">
