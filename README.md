@@ -7,7 +7,7 @@
 <div align="center">
 
   <img src="hello-animated.gif">
-
+  
 </div>
 
 <div align="center">
@@ -22,7 +22,6 @@
   
 </div>
 
-<br>
 
 <div align="center">
 
