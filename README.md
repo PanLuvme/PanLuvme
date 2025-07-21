@@ -17,6 +17,7 @@
 </div>
 
 <div align="center">
+  
   🔭 I’m currently working on **A Research Project**
 
   🌱 I’m currently learning **Rust, JavaScript, AWS**
@@ -24,6 +25,7 @@
   💬 Ask me about **C++, Python, Firebase... or anything** [here](https://github.com/PanLuvme/PanLuvme/issues)
   
   ⚡ Fun fact about me **I have an obsession of self-hosting everything**
+  
 </div>
 
 <br>
